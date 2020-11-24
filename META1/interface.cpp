@@ -1,4 +1,5 @@
 #include "interface.h"
+//commit
 void Interface::readfileTerritorios(string filename) {
 	ifstream file;
 	string nome, categoria;
